@@ -1,0 +1,63 @@
+.accordion {
+margin-top: 50px;
+margin-right: 50px;
+margin-bottom: 50px;
+margin-left: 50px;
+}
+
+.salon {
+color: #d580ff;
+  text-align: center;
+margin-top: 50px;
+margin-right: 50px;
+margin-bottom: 50px;
+margin-left: 50px;
+}
+
+.usluge {
+color: #d580ff;
+  text-align: center;
+margin-top: 100px;
+margin-right: 50px;
+margin-bottom: 50px;
+margin-left: 50px;
+}
+
+.pitanja {
+color: #d580ff;
+  text-align: center;
+margin-top: 100px;
+margin-right: 50px;
+margin-bottom: 50px;
+margin-left: 50px;
+}
+
+
+.narudzba {
+margin-left: 200px;
+float: left;
+}
+
+.tablica {
+margin-top: 80px;
+margin-left: 200px;
+margin-bottom: 200px;
+}
+
+.kontakt {
+margin-left: 50px;
+margin-bottom: 100px;
+}
+
+.zadnja {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  margin-bottom: 100px;
+}
+
+.navizadnja {
+margin-left: 50px;
+margin-bottom: 100px;
+}
